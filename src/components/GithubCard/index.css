@@ -1,0 +1,13 @@
+.card-container {
+  display: flex;
+  border-style: solid;
+  border-radius: 12px;
+  height: 180px;
+  width: 500px;
+  margin: 10px;
+}
+.image {
+  height: 100px;
+  width: 100px;
+  padding: 8px;
+}
